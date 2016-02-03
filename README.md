@@ -1,2 +1,2 @@
 # Project-1
-BAsic Game project
+Basic Game project
